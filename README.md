@@ -6,7 +6,11 @@ This project is an example project, created for a Mintbean Hackathon.
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm install`
+
+This installs your NPM dependencies.
+
+### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
