@@ -1,5 +1,27 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
-  margin: 6rem 0;
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-bottom: 5px;
+}
+
+.container {
+  padding: 50px 100px;
+}
+
+.todo-item {
+  padding: 10px 0px;
+}
+
+.todo-item .title {
+  font-size: larger;
+}
+
+.todo-item .delete-button {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: crimson;
+  color: white;
+}
+
+form label {
 }
